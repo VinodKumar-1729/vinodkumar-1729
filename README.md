@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinodku27955914" target="blank"><img src="https://img.shields.io/twitter/follow/vinodku27955914?logo=twitter&style=for-the-badge" alt="vinodku27955914" /></a> </p>
 
-- 🔭 I’m currently working on **Mess Management**
+- 🔭 I’m currently working on **Mess Management(Web Dev Project)**
 
 - 🌱 I’m currently learning **React.Js**
 
